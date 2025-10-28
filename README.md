@@ -33,13 +33,12 @@ A simple, interactive Python script to compare two or three numbers, discover wh
 
 ## 💡 Example Output
 
-```Choose an option:
+```text
+Choose an option:
 
-Compare two numbers
-
-Compare three numbers
-
-Exit
+1. Compare two numbers
+2. Compare three numbers
+3. Exit
 Enter your choice (1-3): 2
 Enter the first number: 5
 Enter the second number: -3
