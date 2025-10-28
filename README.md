@@ -33,7 +33,6 @@ A simple, interactive Python script to compare two or three numbers, discover wh
 
 ## 💡 Example Output
 
-```text
 Choose an option:
 
 1. Compare two numbers
@@ -51,7 +50,6 @@ The largest number is: 5.0
 0.0 is Zero
 
 At least one number is zero.
-**Summary:**
 
 ---
 
